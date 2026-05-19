@@ -8,7 +8,7 @@ na última linha do código chame a função Menu();
 */
 
 
-       
+/*      
 double numero1;
 double numero2;
 double resultado = 0;
@@ -63,4 +63,4 @@ while (continuar == "s" || continuar == "S")
 }
 
 Console.Write("Fim de programa!!");
-
+*/
